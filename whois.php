@@ -458,6 +458,10 @@ $servers = array(
         'server' => 'whois.nic.la',
         'available' => 'NOT FOUND'
     ),
+    '.lb' => Array(
+        'server' => 'http://www.aub.edu.lb/cgi-bin/lbdr.pl?B1=Search&cn=',
+        'available' => 'No matching entries in root domain'
+    ),
     '.lt' => Array(
         'server' => 'whois.domreg.lt',
         'available' => "Status:            available"
