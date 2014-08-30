@@ -602,6 +602,10 @@ $servers = array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"
     ),
+    '.bd' => array(
+        'server' => 'http://www.whois.com.bd/?query=',
+        'available' => "Domain you requested does not exist."
+    ),
     '.bi' => array(
         'server' => 'whois.nic.bi',
         'available' => "No match for"
