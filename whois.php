@@ -355,8 +355,8 @@ $servers = array(
         'available' => 'No entries found in the AFNIC Database'
     ),
     '.gd' => Array(
-        'server' => 'whois.adamsnames.com',
-        'available' => 'not registered'
+        'server' => 'whois.nic.gd',
+        'available' => 'not found...'
     ),
     '.gg' => Array(
         'server' => 'whois.channelisles.net',
