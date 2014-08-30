@@ -163,6 +163,98 @@ $servers = array(
         'server' => 'whois.centralnic.com',
         'available' => 'DOMAIN NOT FOUND'
     ),
+    '.cn.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.de.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.eu.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.gb.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.gb.net' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.gr.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.hu.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.hu.net' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.jp.net' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.jpn.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.kr.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.no.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.qc.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.ru.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.sa.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.se.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.se.net' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.uk.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.uk.net' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.us.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.us.org' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.uy.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.za.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
     '.dk' => Array(
         'server' => 'whois.dk-hostmaster.dk',
         'available' => 'No entries found'
