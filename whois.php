@@ -70,8 +70,8 @@ $servers = array(
         'available' => 'not found'
     ),
     '.as' => Array(
-        'server' => 'whois.nic.as',
-        'available' => 'Domain Not Found'
+        'server' => 'http://www.nic.as/whois.cfm?domain=',
+        'available' => 'Domain not found'
     ),
     '.asia' => Array(
         'server' => 'whois.nic.asia',
