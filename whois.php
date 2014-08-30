@@ -55,7 +55,7 @@ $servers = array(
     ),
     '.ng' => Array(
         'server' => 'whois.nic.net.ng',
-        'available' => 'Not Registered'
+        'available' => 'Available'
     ),
     '.am' => Array(
         'server' => 'whois.amnic.net',
