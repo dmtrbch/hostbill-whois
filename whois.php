@@ -428,7 +428,7 @@ $servers = array(
     ),
     '.io' => Array(
         'server' => 'http://www.nic.io/cgi-bin/whois?query=',
-        'available' => 'This Domain is available for purchase'
+        'available' => 'This Domain is'
     ),
     '.ir' => Array(
         'server' => 'whois.nic.ir',
