@@ -474,6 +474,10 @@ $servers = array(
         'server' => 'whois.nic.la',
         'available' => 'NOT FOUND'
     ),
+    '.link' => array(
+        'server' => 'whois.uniregistry.net',
+        'available' => 'is available for registration'
+    ),
     '.lb' => Array(
         'server' => 'http://www.aub.edu.lb/cgi-bin/lbdr.pl?B1=Search&cn=',
         'available' => 'No matching entries in root domain'
@@ -489,6 +493,10 @@ $servers = array(
     '.lk' => Array(
         'server' => 'whois.nic.lk',
         'available' => 'This Domain is not available in our whois database'
+    ),
+    '.ls' => Array(
+        'server' => 'http://www.co.ls/co.asp?CT_DNS_NAME=',
+        'available' => 'No records returned.'
     ),
     '.lu' => Array(
         'server' => 'whois.dns.lu',
