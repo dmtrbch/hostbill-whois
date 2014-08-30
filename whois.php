@@ -899,8 +899,8 @@ $servers = array(
         'available' => 'Ce domaine n\'existe pas'
     ),
     '.su' => array(
-        'server' => 'whois.ripn.net',
-        'available' => "No entries found for the selected source(s)"
+        'server' => 'whois.tcinet.ru',
+        'available' => 'No entries found'
     ),
     '.sx' => array(
         'server' => 'whois.sx',
