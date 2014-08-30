@@ -643,8 +643,8 @@ $servers = array(
         'available' => 'Available'
     ),
     '.tm' => Array(
-        'server' => 'http://www.nic.ac/cgi-bin/whois?query=',
-        'available' => 'This Domain is available for purchase'
+        'server' => 'http://www.nic.tm/cgi-bin/whois?query=',
+        'available' => 'This Domain is'
     ),
     '.tr' => Array(
         'server' => 'whois.nic.tr',
