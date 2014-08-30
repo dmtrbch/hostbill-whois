@@ -875,8 +875,8 @@ $servers = array(
         'available' => "No match for"
     ),
     '.gr' => array(
-        'server' => 'whois.ripe.net',
-        'available' => "no entries found"
+        'server' => 'http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=',
+        'available' => 'not exist'
     ),
     '.hm' => array(
         'server' => 'whois.registry.hm',
