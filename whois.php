@@ -907,8 +907,8 @@ $servers = array(
         'available' => 'AVAILABLE'
     ),
     '.tn' => array(
-        'server' => 'whois.ripe.net',
-        'available' => "no entries found"
+        'server' => 'whois.tn',
+        'available' => 'not found'
     ),
     '.to' => array(
         'server' => 'http://www.tonic.to/whois?',
