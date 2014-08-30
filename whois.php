@@ -370,6 +370,10 @@ $servers = array(
         'server' => 'whois.coccaregistry.org',
         'available' => 'Available'
     ),
+    '.gt' => Array(
+        'server' => 'http://www.gt/cgi-bin/whois.cgi?domain=',
+        'available' => 'DOMINIO NO REGISTRADO'
+    ),
     '.gy' => Array(
         'server' => 'whois.coccaregistry.org',
         'available' => 'Available'
