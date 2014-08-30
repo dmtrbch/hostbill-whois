@@ -783,8 +783,8 @@ $servers = array(
         'available' => "No match for"
     ),
     '.by' => array(
-        'server' => 'whois.ripe.net',
-        'available' => "no entries found"
+        'server' => 'whois.cctld.by',
+        'available' => 'Object does not exist'
     ),
     '.bz' => Array(
         'server' => 'whois.afilias-grs.info',
