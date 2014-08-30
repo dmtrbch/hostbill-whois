@@ -634,6 +634,10 @@ $servers = array(
         'server' => 'whois.twnic.net.tw',
         'available' => 'No Found'
     ),
+    '.tz' => Array(
+        'server' => 'whois.tznic.or.tz',
+        'available' => 'ERROR:101: no entries found'
+    ),
     '.tv' => Array(
         'server' => 'tvwhois.verisign-grs.com',
         'available' => 'No match for'
