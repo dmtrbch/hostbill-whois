@@ -474,6 +474,10 @@ $servers = array(
         'server' => 'whois.nic.me',
         'available' => 'NOT FOUND'
     ),
+    '.mg' => array(
+        'server' => 'whois.nic.mg',
+        'available' => 'Available'
+    ),
     '.ms' => Array(
         'server' => 'whois.nic.ms',
         'available' => 'Available'
