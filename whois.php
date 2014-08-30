@@ -862,6 +862,10 @@ $servers = array(
         'server' => 'http://reg.marnet.net.mk/registar.php?dom=',
         'available' => '.mk '
     ),
+    '.mm' => Array(
+        'server' => '61.4.68.21',
+        'available' => 'Domain Not Found'
+    ),
     '.mt' => array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"
