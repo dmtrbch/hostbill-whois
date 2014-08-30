@@ -566,6 +566,10 @@ $servers = array(
         'server' => 'whois.rotld.ro',
         'available' => 'No entries found'
     ),
+    '.rs' => Array(
+        'server' => 'whois.rnids.rs',
+        'available' => '%ERROR:103: Domain is not registered'
+    ),
     '.re' => Array(
         'server' => 'whois.nic.re',
         'available' => 'No entries found'
