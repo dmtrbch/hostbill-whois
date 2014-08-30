@@ -567,7 +567,7 @@ $servers = array(
         'available' => 'This domain name is not registered'
     ),
     '.ph' => Array(
-        'server' => 'http://bayanhosting.dot.ph/WhoIs.asp?Domain=',
+        'server' => 'http://www2.dot.ph/WhoIs.asp?Domain=',
         'available' => 'is still available'
     ),
     '.pt' => Array(
