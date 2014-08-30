@@ -156,8 +156,8 @@ $servers = array(
     ),
     '.cx' => Array
         (
-        'server' => 'whois.nic.cx',
-        'available' => 'Not Registered'
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
     ),
     '.cz' => Array
         (
@@ -292,13 +292,13 @@ $servers = array(
     ),
     '.gs' => Array
         (
-        'server' => 'whois.nic.gs',
-        'available' => 'Not Registered'
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
     ),
     '.gy' => Array
         (
-        'server' => 'whois.registry.gy',
-        'available' => 'Not Registered'
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
     ),
     '.hk' => Array
         (
@@ -577,8 +577,8 @@ $servers = array(
     ),
     '.tl' => Array
         (
-        'server' => 'whois.nic.tl',
-        'available' => 'Status: Not Registered'
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
     ),
     '.tm' => Array
         (
@@ -795,11 +795,13 @@ $servers = array(
         'server' => 'whois.nic.mu',
         'available' => "Not Registered"),
     '.nf' => array(
-        'server' => 'whois.nic.cx',
-        'available' => "Not Registered"),
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
+    ),
     '.sb' => array(
-        'server' => 'whois.nic.net.sb',
-        'available' => "Not Registered"),
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
+    ),
     '.sk' => array(
         'server' => 'whois.sk-nic.sk',
         'available' => "Not found."),
@@ -828,17 +830,21 @@ $servers = array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"),
     '.ht' => array(
-        'server' => 'whois.nic.ht',
-        'available' => 'Not Registered'),
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
+    ),
     '.info.ht' => array(
-        'server' => 'whois.nic.ht',
-        'available' => 'Not Registered'),
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
+    ),
     '.net.ht' => array(
-        'server' => 'whois.nic.ht',
-        'available' => 'Not Registered'),
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
+    ),
     '.org.ht' => array(
-        'server' => 'whois.nic.ht',
-        'available' => 'Not Registered'),
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
+    ),
     '.qa' => Array
         (
         'server' => 'whois.registry.qa',
