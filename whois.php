@@ -744,7 +744,7 @@ $servers = array(
     ),
     '.co.nl' => array(
         'server' => 'whois.co.nl',
-        'available' => "Domain does not exist"
+        'available' => 'AVAILABLE'
     ),
     '.cy' => array(
         'server' => 'whois.ripe.net',
