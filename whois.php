@@ -859,8 +859,8 @@ $servers = array(
         'available' => "No match for"
     ),
     '.mk' => array(
-        'server' => 'whois.ripe.net',
-        'available' => "No entries found"
+        'server' => 'http://reg.marnet.net.mk/registar.php?dom=',
+        'available' => '.mk '
     ),
     '.mt' => array(
         'server' => 'whois.ripe.net',
