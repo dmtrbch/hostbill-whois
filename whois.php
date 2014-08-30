@@ -814,6 +814,10 @@ $servers = array(
         'server' => '41.76.213.175',
         'available' => 'Available'
     ),
+    '.cf' => array(
+        'server' => 'whois.dot.cf',
+        'available' => 'domain name not known'
+    ),
     '.ck' => array(
         'server' => 'whois.nic.ck',
         'available' => "No entries found "
