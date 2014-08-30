@@ -562,6 +562,10 @@ $servers = array(
         'server' => 'http://co.za/cgi-bin/whois.sh?Domain=',
         'available' => 'No Matches'
     ),
+    '.org.za' => array(
+        'server' => 'http://www.org.za/cgi-bin/rwhois?domain=',
+        'available' => 'Domain not found'
+    ),
     '.es' => Array(
         'server' => 'http://whois.domaintools.com/',
         'available' => 'This domain name is not registered'
