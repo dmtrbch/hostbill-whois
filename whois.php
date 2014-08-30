@@ -771,8 +771,8 @@ $servers = array(
         'available' => 'NOT FOUND'
     ),
     '.cd' => array(
-        'server' => 'whois.nic.cd',
-        'available' => "Domain Not Found"
+        'server' => '41.76.213.175',
+        'available' => 'Available'
     ),
     '.ck' => array(
         'server' => 'whois.nic.ck',
