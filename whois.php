@@ -65,6 +65,10 @@ $servers = array(
         'server' => 'whois.nic.at',
         'available' => 'nothing found'
     ),
+    '.priv.at' => Array(
+        'server' => 'whois.nic.priv.at',
+        'available' => 'No entries found for the selected source(s).'
+    ),
     '.arpa' => Array(
         'server' => 'whois.iana.org',
         'available' => 'not found'
