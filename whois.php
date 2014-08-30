@@ -678,6 +678,10 @@ $servers = array(
         'server' => 'whois.adamsnames.tc',
         'available' => 'not registered'
     ),
+    '.vu' => Array(
+        'server' => 'http://www.vunic.vu/whois?',
+        'available' => 'No match for domain'
+    ),
     '.wf' => Array(
         'server' => 'whois.nic.wf',
         'available' => 'No entries found'
