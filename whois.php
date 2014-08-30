@@ -279,6 +279,10 @@ $servers = array(
         'server' => 'whois.dk-hostmaster.dk',
         'available' => 'No entries found'
     ),
+    '.dm' => Array(
+        'server' => 'whois.nic.dm',
+        'available' => 'not found...'
+    ),
     '.my' => Array(
         'server' => 'whois.mynic.net.my',
         'available' => 'does not exist in database'
