@@ -879,8 +879,8 @@ $servers = array(
         'available' => "no entries found"
     ),
     '.to' => array(
-        'server' => 'whois.tonic.to',
-        'available' => "No match for"
+        'server' => 'http://www.tonic.to/whois?',
+        'available' => 'No match for domain'
     ),
     '.uy' => array(
         'server' => 'nic.uy',
