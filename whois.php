@@ -42,8 +42,8 @@ $servers = array(
         'available' => 'NOT FOUND'
     ),
     '.ac' => Array(
-        'server' => 'whois.nic.ac',
-        'available' => '- Available'
+        'server' => 'http://www.nic.ac/cgi-bin/whois?query=',
+        'available' => 'This Domain is available for purchase'
     ),
     '.ae' => Array(
         'server' => 'whois.aeda.net.ae',
