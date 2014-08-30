@@ -534,6 +534,10 @@ $servers = array(
         'server' => 'whois.dotmobiregistry.net',
         'available' => 'NOT FOUND'
     ),
+    '.moe' => Array(
+        'server' => 'whois.nic.moe',
+        'available' => 'Not found'
+    ),
     '.name' => Array(
         'server' => 'whois.nic.name',
         'available' => 'No match'
