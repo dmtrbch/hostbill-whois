@@ -794,6 +794,10 @@ $servers = array(
         'server' => 'whois.nic.bi',
         'available' => 'No match for'
     ),
+    '.bj' => array(
+        'server' => 'whois.nic.bj',
+        'available' => 'No records matching'
+    ),
     '.bt' => array(
         'server' => 'whois.netnames.net',
         'available' => "No match for"
