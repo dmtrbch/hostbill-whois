@@ -734,6 +734,10 @@ $servers = array(
         'server' => 'http://www.org.za/cgi-bin/rwhois?domain=',
         'available' => 'Domain not found'
     ),
+    '.zw' => array(
+        'server' => 'http://www.zispa.org.zw/cgi-bin/search?domain=',
+        'available' => 'is available for registration.'
+    ),
     '.es' => Array(
         'server' => 'http://whois.domaintools.com/',
         'available' => 'This domain name is not registered'
