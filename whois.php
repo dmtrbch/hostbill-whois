@@ -870,6 +870,10 @@ $servers = array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"
     ),
+    '.sn' => Array(
+        'server' => 'http://whois.nic.sn/whois.php?domain=',
+        'available' => 'Ce domaine n\'existe pas'
+    ),
     '.su' => array(
         'server' => 'whois.ripn.net',
         'available' => "No entries found for the selected source(s)"
