@@ -787,8 +787,12 @@ $servers = array(
         'available' => "Domain you requested does not exist."
     ),
     '.bi' => array(
+        'server' => 'whois1.nic.bi',
+        'available' => 'Available'
+        ),
+    '.info.bi' => array(
         'server' => 'whois.nic.bi',
-        'available' => "No match for"
+        'available' => 'No match for'
     ),
     '.bt' => array(
         'server' => 'whois.netnames.net',
