@@ -692,7 +692,7 @@ $servers = array(
     ),
     '.mu' => array(
         'server' => 'whois.nic.mu',
-        'available' => "Not Registered"
+        'available' => 'Available'
     ),
     '.nf' => array(
         'server' => 'whois.coccaregistry.org',
