@@ -490,6 +490,10 @@ $servers = array(
         'server' => 'whois.norid.no',
         'available' => '% No match'
     ),
+    '.co.no' => Array(
+        'server' => 'whois.co.no',
+        'available' => 'AVAILABLE'
+    ),
     '.nu' => Array(
         'server' => 'whois.nic.nu',
         'available' => 'NO MATCH for domain'
