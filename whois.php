@@ -135,6 +135,10 @@ $servers = array(
         'server' => 'whois.nic.cc',
         'available' => 'No match'
     ),
+    '.cm' => Array(
+        'server' => 'whois.netcom.cm',
+        'available' => 'Not Registered'
+    ),
     '.cx' => Array(
         'server' => 'whois.coccaregistry.org',
         'available' => 'Available'
@@ -611,8 +615,8 @@ $servers = array(
         'available' => 'Not found:'
     ),
     '.ua' => Array(
-        'server' => 'whois.net.ua',
-        'available' => 'No entries found'
+        'server' => 'whois.ua',
+        'available' => '% No entries found'
     ),
     '.us' => Array(
         'server' => 'whois.nic.us',
