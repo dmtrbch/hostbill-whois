@@ -762,6 +762,10 @@ $servers = array(
         'server' => 'whois.nic.ag',
         'available' => "NOT FOUND"
     ),
+    '.ai' => array(
+        'server' => 'http://whois.ai/cgi-bin/newdomain.py?domain=',
+        'available' => 'not registered'
+    ),
     '.fm' => array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"
