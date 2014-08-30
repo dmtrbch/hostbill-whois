@@ -878,6 +878,10 @@ $servers = array(
         'server' => 'whois.nic.mu',
         'available' => 'Available'
     ),
+    '.mw' => array(
+        'server' => 'http://www.registrar.mw/index.php?d=0&Submit=Search&domain=',
+        'available' => 'was NOT found'
+    ),
     '.nf' => array(
         'server' => 'whois.coccaregistry.org',
         'available' => 'Available'
