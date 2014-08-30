@@ -966,6 +966,10 @@ $servers = array(
         'server' => 'http://www.pnina.ps/domains/whois/?d=',
         'available' => 'has not been registered.'
     ),
+    '.py' => Array(
+        'server' => 'http://www.nic.py/cgi-nic/consultas/dquery?nombre_dominio=',
+        'available' => 'No se encontraron datos para el dominio solicitado.'
+    ),
     '.academy' => array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
