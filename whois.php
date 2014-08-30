@@ -890,6 +890,10 @@ $servers = array(
         'server' => 'http://reg.marnet.net.mk/registar.php?dom=',
         'available' => '.mk '
     ),
+    '.ml' => array(
+        'server' => 'whois.dot.ml',
+        'available' => 'domain name not known'
+    ),
     '.mm' => Array(
         'server' => '61.4.68.21',
         'available' => 'Domain Not Found'
