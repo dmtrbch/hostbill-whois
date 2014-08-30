@@ -867,8 +867,8 @@ $servers = array(
         'available' => " no entries found"
     ),
     '.gm' => array(
-        'server' => 'whois.ripe.net',
-        'available' => "no entries found"
+        'server' => 'http://www.nic.gm/scripts/checkdom.asp?dname=',
+        'available' => 'is still available'
     ),
     '.gov' => array(
         'server' => 'whois.nic.gov',
