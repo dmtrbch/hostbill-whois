@@ -439,7 +439,7 @@ $servers = array(
         'available' => 'No match!!'
     ),
     '.je' => Array(
-        'server' => 'whois.je',
+        'server' => 'whois.channelisles.net',
         'available' => 'Not Registered'
     ),
     '.ke' => Array(
@@ -997,6 +997,10 @@ $servers = array(
     '.ps' => array(
         'server' => 'http://www.pnina.ps/domains/whois/?d=',
         'available' => 'has not been registered.'
+    ),
+    '.pw' => array(
+        'server' => 'whois.nic.pw',
+        'available' => 'DOMAIN NOT FOUND',
     ),
     '.py' => Array(
         'server' => 'http://www.nic.py/cgi-nic/consultas/dquery?nombre_dominio=',
