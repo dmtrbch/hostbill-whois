@@ -43,7 +43,7 @@ $servers = array(
     ),
     '.ac' => Array(
         'server' => 'http://www.nic.ac/cgi-bin/whois?query=',
-        'available' => 'This Domain is available for purchase'
+        'available' => 'This Domain is'
     ),
     '.ae' => Array(
         'server' => 'whois.aeda.net.ae',
