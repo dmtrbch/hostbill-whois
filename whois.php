@@ -436,7 +436,7 @@ $servers = array(
     ),
     '.ke' => Array(
         'server' => 'whois.kenic.or.ke',
-        'available' => 'No match found'
+        'available' => 'Not Registered'
     ),
     '.ki' => Array(
         'server' => 'whois.nic.ki',
