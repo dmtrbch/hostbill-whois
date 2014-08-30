@@ -151,6 +151,10 @@ $servers = array(
         'server' => 'whois.nic.cz',
         'available' => 'no entries found'
     ),
+    '.co.cz' => Array(
+        'server' => 'whois.i-registry.cz',
+        'available' => 'no entries found'
+    ),
     '.de' => Array(
         'server' => 'whois.denic.de',
         'available' => 'free'
