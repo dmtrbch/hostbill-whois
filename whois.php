@@ -851,8 +851,8 @@ $servers = array(
         'available' => "no entries found"
     ),
     '.fo' => array(
-        'server' => 'whois.ripe.net',
-        'available' => "No entries found"
+        'server' => 'whois.nic.fo',
+        'available' => "ERROR:101: no entries found"
     ),
     '.gb' => array(
         'server' => 'whois.ripe.net',
