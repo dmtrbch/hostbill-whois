@@ -722,6 +722,10 @@ $servers = array(
         'server' => 'whois.ripn.net',
         'available' => "No entries found for the selected source(s)"
     ),
+    '.sx' => array(
+        'server' => 'whois.sx',
+        'available' => 'AVAILABLE'
+    ),
     '.tn' => array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"
