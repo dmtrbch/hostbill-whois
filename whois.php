@@ -462,6 +462,10 @@ $servers = array(
         'server' => 'whois.nic.li',
         'available' => 'We do not have an entry'
     ),
+    '.lk' => Array(
+        'server' => 'whois.nic.lk',
+        'available' => 'This Domain is not available in our whois database'
+    ),
     '.lu' => Array(
         'server' => 'whois.dns.lu',
         'available' => 'No such domain'
