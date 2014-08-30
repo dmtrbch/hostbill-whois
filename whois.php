@@ -443,8 +443,8 @@ $servers = array(
         'available' => 'Domain Not Found'
     ),
     '.sh' => Array(
-        'server' => 'whois.nic.sh',
-        'available' => '- Available'
+        'server' => 'http://www.nic.sh/cgi-bin/whois?query=',
+        'available' => 'This Domain is available for purchase'
     ),
     '.si' => Array(
         'server' => 'whois.arnes.si',
@@ -475,8 +475,8 @@ $servers = array(
         'available' => 'Available'
     ),
     '.tm' => Array(
-        'server' => 'whois.nic.tm',
-        'available' => '- Available'
+        'server' => 'http://www.nic.ac/cgi-bin/whois?query=',
+        'available' => 'This Domain is available for purchase'
     ),
     '.tr' => Array(
         'server' => 'whois.nic.tr',
@@ -609,6 +609,10 @@ $servers = array(
     '.by' => array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"
+    ),
+    '.bz' => Array(
+        'server' => 'whois.afilias-grs.info',
+        'available' => 'NOT FOUND'
     ),
     '.cd' => array(
         'server' => 'whois.nic.cd',
@@ -755,8 +759,8 @@ $servers = array(
         'available' => 'No Data Found ' // server was down temorary
     ),
     '.lc' => Array(
-        'server' => 'http://whois.domaintools.com/',
-        'available' => 'This domain name is not registered'
+        'server' => 'whois.afilias-grs.info',
+        'available' => 'NOT FOUND'
     ),
     '.im' => Array(
         'server' => 'whois.nic.im',
