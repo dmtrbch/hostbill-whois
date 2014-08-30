@@ -327,8 +327,8 @@ $servers = array(
         'sldonly' => true
     ),
     '.ec' => Array(
-        'server' => 'whois.lac.net',
-        'available' => 'No match found'
+        'server' => 'whois.nic.ec',
+        'available' => 'Not Registered'
     ),
     '.ee' => Array(
         'server' => 'whois.eenet.ee',
