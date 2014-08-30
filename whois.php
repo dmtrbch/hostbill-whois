@@ -767,8 +767,8 @@ $servers = array(
         'available' => 'was not found'
     ),
     '.mn' => Array(
-        'server' => 'http://whois.domaintools.com/',
-        'available' => 'This domain name is not registered'
+        'server' => 'whois.afilias-grs.info',
+        'available' => 'NOT FOUND'
     ),
     '.ps' => array(
         'server' => 'http://www.pnina.ps/domains/whois/?d=',
