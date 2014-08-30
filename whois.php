@@ -21,6 +21,11 @@
  * port 80 (http request)
  */
 $servers = array(
+    '.ao' => Array
+        (
+        'server' => 'fred.nic.ao',
+        'available' => 'No entries found'
+    ),
     '.af' => array(
         'server' => 'whois.nic.af',
         'available' => 'Not Registered'
