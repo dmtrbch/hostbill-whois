@@ -612,7 +612,7 @@ $servers = array(
     ),
     '.sh' => Array(
         'server' => 'http://www.nic.sh/cgi-bin/whois?query=',
-        'available' => 'This Domain is available for purchase'
+        'available' => 'This Domain is'
     ),
     '.si' => Array(
         'server' => 'whois.arnes.si',
