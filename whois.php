@@ -530,6 +530,10 @@ $servers = array(
         'server' => 'whois.srs.net.nz',
         'available' => '220 Available'
     ),
+    '.pa' => Array(
+        'server' => 'http://www.nic.pa/whois.php?nombre_d=',
+        'available' => 'El dominio'
+    ),
     '.org' => Array(
         'server' => 'whois.publicinterestregistry.net',
         'available' => 'NOT FOUND'
