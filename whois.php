@@ -718,6 +718,10 @@ $servers = array(
         'server' => 'http://co.za/cgi-bin/whois.sh?Domain=',
         'available' => 'No Matches'
     ),
+    '.ac.za' => array(
+        'server' => 'http://whois.ac.za/cgi_domainquery.exe?domain=',
+        'available' => 'is not registered'
+    ),
     '.org.za' => array(
         'server' => 'http://www.org.za/cgi-bin/rwhois?domain=',
         'available' => 'Domain not found'
