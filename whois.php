@@ -94,6 +94,10 @@ $servers = array(
         'server' => 'whois.registro.br',
         'available' => 'No match for domain'
     ),
+    '.bw' => array(
+        'server' => 'http://secure.coccaregistry.net/modules/addons/eppregistrarmanager/domaincheck.php?domain=',
+        'available' => 'Not Registered'
+    ),
     '.biz' => Array(
         'server' => 'whois.neulevel.biz',
         'available' => 'Not found:'
@@ -259,8 +263,8 @@ $servers = array(
         'available' => 'nije registrirana'
     ),
     '.hn' => Array(
-        'server' => 'whois2.afilias-grs.net',
-        'available' => 'NOT FOUND'
+        'server' => 'http://secure.coccaregistry.net/modules/addons/eppregistrarmanager/domaincheck.php?domain=',
+        'available' => 'Not Registered'
     ),
     '.hu' => Array(
         'server' => 'whois.nic.hu',
