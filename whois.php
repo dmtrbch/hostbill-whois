@@ -126,6 +126,10 @@ $servers = array(
         'server' => 'whois.nic.co',
         'available' => 'Not found:'
     ),
+    '.cv' => Array(
+        'server' => 'http://www.dns.cv/tldcv_si/do?com=DS;4186362310;online.200002;+PAGE(online.300110)+RCNT(100)+F_WHOIS(',
+        'available' => 'Domain name not found / Nick-handle not found'
+    ),
     '.com' => Array(
         'server' => 'whois.crsnic.net',
         'available' => 'No match for',
