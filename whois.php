@@ -358,6 +358,10 @@ $servers = array(
         'server' => 'whois.nic.fr',
         'available' => 'No entries found in the AFNIC Database'
     ),
+    '.ga' => array(
+        'server' => 'whois.dot.ga',
+        'available' => 'domain name not known'
+    ),
     '.gd' => Array(
         'server' => 'whois.nic.gd',
         'available' => 'not found...'
