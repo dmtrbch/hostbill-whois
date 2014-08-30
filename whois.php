@@ -358,6 +358,10 @@ $servers = array(
         'server' => 'whois.ficora.fi',
         'available' => 'Domain not found'
     ),
+    '.fj' => Array(
+        'server' => 'whois.usp.ac.fj',
+        'available' => 'was not found'
+    ),
     '.fr' => Array(
         'server' => 'whois.nic.fr',
         'available' => 'No entries found in the AFNIC Database'
