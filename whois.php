@@ -356,7 +356,7 @@ $servers = array(
     ),
     '.ms' => Array(
         'server' => 'whois.nic.ms',
-        'available' => 'Not Registered'
+        'available' => 'Available'
     ),
     '.mx' => Array(
         'server' => 'whois.mx',
