@@ -94,6 +94,10 @@ $servers = array(
         'server' => 'whois.registro.br',
         'available' => 'No match for domain'
     ),
+    '.bs' => array(
+        'server' => 'http://register.bs/cgi-bin/search.pl?name=',
+        'available' => 'has not yet been Registered'
+    ),
     '.bw' => array(
         'server' => 'http://secure.coccaregistry.net/modules/addons/eppregistrarmanager/domaincheck.php?domain=',
         'available' => 'Not Registered'
