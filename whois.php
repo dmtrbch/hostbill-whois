@@ -27,8 +27,8 @@ $servers = array(
         'available' => 'No entries found'
     ),
     '.af' => array(
-        'server' => 'whois.nic.af',
-        'available' => 'Not Registered'
+        'server' => 'whois.coccaregistry.org',
+        'available' => 'Available'
     ),
     '.th' => array(
         'server' => 'whois.thnic.co.th',
