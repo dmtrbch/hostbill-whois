@@ -742,6 +742,10 @@ $servers = array(
         'server' => 'http://www2.dot.ph/WhoIs.asp?Domain=',
         'available' => 'is still available'
     ),
+    '.pk' => Array(
+        'server' => 'http://pk6.pknic.net.pk/pk5/lookup.PK?name=',
+        'available' => 'Domain not found:'
+    ),
     '.pt' => Array(
         'server' => 'whois.dns.pt',
         'available' => 'no match'
