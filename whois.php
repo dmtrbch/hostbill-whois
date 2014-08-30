@@ -770,6 +770,14 @@ $servers = array(
         'server' => 'whois.dns.pt',
         'available' => 'no match'
     ),
+    '.co.pt' => Array(
+        'server' => 'whois.co.pt',
+        'available' => 'no match'
+    ),
+    '.lta.pt' => Array(
+       'server' => 'whois.co.pt',
+       'available' => 'no match'
+    ),
     '.so' => Array(
         'server' => 'whois.nic.so',
         'available' => 'Not found:'
