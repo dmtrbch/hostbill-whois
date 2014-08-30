@@ -147,6 +147,22 @@ $servers = array(
         'server' => 'whois.denic.de',
         'available' => 'free'
     ),
+    '.com.de' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'free'
+    ),
+    '.ae.org' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.ar.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
+    '.br.com' => Array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
     '.dk' => Array(
         'server' => 'whois.dk-hostmaster.dk',
         'available' => 'No entries found'
