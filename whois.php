@@ -1254,6 +1254,10 @@ $servers = array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
     ),
+    '.fail' => array(
+        'server' => 'whois.donuts.co',
+        'available' => 'Domain not found'
+    ),    
     '.fish' => array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
