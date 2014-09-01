@@ -990,6 +990,10 @@ $servers = array(
         'server' => 'whois.nic.xxx',
         'available' => "NOT FOUND"
     ),
+    '.xyz' => array(
+        'server' => 'whois.nic.xyz',
+        'available' => "DOMAIN NOT FOUND"
+    ),
     '.yu' => array(
         'server' => 'whois.ripe.net',
         'available' => "no entries found"
