@@ -1668,7 +1668,7 @@ $servers = array(
     ),
     '.wiki' => array(
         'server' => 'whois.nic.wiki',
-        'available' => 'Domain not found'
+        'available' => 'DOMAIN NOT FOUND'
     ),
     '.works' => array(
         'server' => 'whois.donuts.co',
