@@ -1468,7 +1468,7 @@ $servers = array(
     ),
     '.pink' => array(
         'server' => 'whois.afilias.net',
-        'available' => 'Domain not found'
+        'available' => 'NOT FOUND'
     ),
     '.plumbing' => array(
         'server' => 'whois.donuts.co',
