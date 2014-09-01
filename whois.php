@@ -1050,6 +1050,10 @@ $servers = array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
     ),
+    '.audio' => array(
+        'server' => 'whois.uniregistry.net',
+        'available' => 'is available for'
+    ),
     '.bar' => array(
         'server' => 'whois.nic.bar',
         'available' => 'DOMAIN NOT FOUND'
