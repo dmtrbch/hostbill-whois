@@ -1352,7 +1352,7 @@ $servers = array(
     ),
     '.kim' => array(
         'server' => 'whois.afilias.net',
-        'available' => 'Domain not found'
+        'available' => 'NOT FOUND'
     ),
     '.kitchen' => array(
         'server' => 'whois.donuts.co',
