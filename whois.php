@@ -1080,7 +1080,7 @@ $servers = array(
     ),
     '.blue' => array(
         'server' => 'whois.afilias.net',
-        'available' => 'Domain not found'
+        'available' => 'NOT FOUND'
     ),
     '.boutique' => array(
         'server' => 'whois.donuts.co',
