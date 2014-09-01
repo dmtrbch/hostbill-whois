@@ -1410,6 +1410,10 @@ $servers = array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
     ),
+    '.media' => array(
+        'server' => 'whois.donuts.co',
+        'available' => 'Domain not found'
+    ),
     '.menu' => array(
         'server' => 'whois.nic.menu',
         'available' => 'No Data Found'
