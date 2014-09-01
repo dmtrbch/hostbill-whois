@@ -1326,6 +1326,10 @@ $servers = array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
     ),
+    '.ink' => array(
+        'server' => 'whois.centralnic.com',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
     '.institute' => array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
