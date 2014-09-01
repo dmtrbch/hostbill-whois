@@ -1673,6 +1673,10 @@ $servers = array(
     '.works' => array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
+    ),
+    '.wtf' => array(
+        'server' => 'whois.nic.wtf',
+        'available' => 'Domain not found'
     )
     //info.ht, net.ht, and .org.ht.
 ); 
