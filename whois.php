@@ -1681,6 +1681,10 @@ $servers = array(
     '.wtf' => array(
         'server' => 'whois.nic.wtf',
         'available' => 'Domain not found'
+    ),
+    '.zone' => array(
+        'server' => 'whois.nic.zone',
+        'available' => 'Domain not found'
     )
     //info.ht, net.ht, and .org.ht.
 ); 
