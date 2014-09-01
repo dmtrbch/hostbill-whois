@@ -1310,6 +1310,10 @@ $servers = array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
     ),
+    '.host' => array(
+        'server' => 'whois.nic.host',
+        'available' => 'DOMAIN NOT FOUND'
+    ),
     '.house' => array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
