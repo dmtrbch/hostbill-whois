@@ -1374,6 +1374,10 @@ $servers = array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
     ),
+    '.life' => array(
+        'server' => 'whois.donuts.co',
+        'available' => 'Domain not found'
+    ),
     '.lighting' => array(
         'server' => 'whois.donuts.co',
         'available' => 'Domain not found'
