@@ -792,7 +792,7 @@ $servers = array(
     ),
     '.so' => Array(
         'server' => 'whois.nic.so',
-        'available' => 'Not found:'
+        'available' => 'DOMAIN NOT FOUND'
     ),
     '.ag' => array(
         'server' => 'whois.nic.ag',
