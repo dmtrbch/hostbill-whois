@@ -919,7 +919,7 @@ $servers = array(
         'available' => "No match for"
     ),
     '.mk' => array(
-        'server' => 'http://reg.marnet.net.mk/registar.php?dom=',
+        'server' => 'http://whois.marnet.mk/?domain=',
         'available' => '.mk '
     ),
     '.ml' => array(
